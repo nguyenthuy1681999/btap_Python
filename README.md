@@ -1,2 +1,3 @@
 # btap_Python
- Python
+ Python Basic
+ More than 100 python basic exercises  
